@@ -15,3 +15,5 @@ Youtube script on Linux on Android + HA.pdf
 # Logs produced by the scripts
 termux-setup.log
 homeassistant-setup.log
+config.bat
+node_modules
