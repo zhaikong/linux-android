@@ -9,6 +9,8 @@ Usage:
 Then open Firefox and go to http://localhost:5000
 """
 
+import utils.transport
+import utils.session
 from flask import Flask
 import platform
 import os
